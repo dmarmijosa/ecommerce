@@ -1,0 +1,1 @@
+document.getElementsByTagName('time')[0].innerHTML = "g"
